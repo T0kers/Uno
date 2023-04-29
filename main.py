@@ -48,14 +48,6 @@ def main():
 if __name__ == '__main__':
     main()
 
-#  TODO
-# måske socket ting
-
-# måske pygame ui
-
-# måske settings
-
-
 # normal cards
 # color = red, green, blue, yellow
 # value = int 1-9
@@ -71,14 +63,3 @@ if __name__ == '__main__':
 # uno reverse
 # color = same as normal
 # value = 'rev'
-
-
-# MAYBE CHANGE:
-
-# change color
-# color = 'choice'
-# value = None
-
-# +4 change color
-# color = 'choice'
-# value = '+4'
