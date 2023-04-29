@@ -1,0 +1,6 @@
+TODO
+måske socket ting
+
+måske pygame ui
+
+måske settings
